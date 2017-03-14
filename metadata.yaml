@@ -1,5 +1,8 @@
 _repo: The-Swiss-Family-Robinson--or-Adventures-in-a-Desert-Island_11703
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wyss, Johann David
@@ -14,6 +17,8 @@ creator:
 description: "The Swiss Family Robinson (German: Der Schweizerische Robinson) is a\
   \ novel by Johann David Wyss, first published in 1812, about a Swiss family shipwrecked\
   \ in the East Indies en route to Port Jackson, Australia.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11703#The-Swiss-Family-Robinson--or-Adventures-in-a-Desert-Island
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
